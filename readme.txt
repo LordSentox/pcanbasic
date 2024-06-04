@@ -1,3 +1,9 @@
+*** DISCLAIMER ***
+This is not the official Repo of the PCANBasic linux library. As far as I can tell the only official
+way to get to the source code is via their website peak-system.com
+I made this to track a version of the library that I could easily build and use with nix. Use at
+your own risk, but honestly, just use their packaged version if you can.
+
 ===============================================================================
 ReadMe.txt
 
@@ -5,7 +11,6 @@ PCAN-Basic Linux V4.8.0
 Copyright (c) 2024 PEAK-System Technik GmbH Darmstadt, Germany
 All rights reserved.
 ===============================================================================
-
 
 Contents:
 ---------

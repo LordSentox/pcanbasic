@@ -1,0 +1,17 @@
+examples/console/NativeC++/EventDrivenRead
+examples/console/NativeC++/GetSetParameter
+examples/console/NativeC++/LookUpChannel
+examples/console/NativeC++/ManualRead
+examples/console/NativeC++/ManualWrite
+examples/console/NativeC++/ThreadRead
+examples/console/NativeC++/TimerRead
+examples/console/NativeC++/TimerWrite
+examples/console/NativeC++/TraceFiles
+examples/console/c/pcaneventread
+examples/console/c/pcaneventwrite
+examples/console/c/pcanread
+examples/console/c/pcanwrite
+pcanbasic/lib/*
+pcanbasic/out/*
+pcaninfo/pcaninfo
+pcaninfo/pcaninfo.*
